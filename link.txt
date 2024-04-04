@@ -1,0 +1,2 @@
+link github package: https://github.com/users/aldanrp/packages/container/package/a433-microservices%2Fitem-app
+link docker pull nya : docker pull ghcr.io/aldanrp/a433-microservices/item-app:v1
